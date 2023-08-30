@@ -11,7 +11,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div class="container mx-auto">
+      <div className="container mx-auto">
         <div className="w-full p-4 h-full">
           <h1 className="text-5xl md:text-6xl font-bold text-center w-full mb-4">Craps Mobile</h1>
           <div className="flex flex-col items-center justify-center md:flex-row md:justify-between">
