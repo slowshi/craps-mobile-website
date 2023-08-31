@@ -140,7 +140,7 @@ export default function Privacy() {
       </p>
       <p className="mb-2">
         If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at
-        Lenster921@gmail.com.
+        crapsmobilehelp@gmail.com.
       </p>
     </div>
   )

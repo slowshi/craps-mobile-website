@@ -35,8 +35,8 @@ export default function Home() {
             <h2 className="text-2xl font-semibold">Need Support?</h2>
             <p className="mt-2">{`Contact us with any questions or concerns. We're here to help!`}</p>
             <div className="flex justify-center md:justify-start mt-4">
-              <a href="mailto:lenster921@gmail.com" className="text-blue-500 hover:underline">
-                lenster921@gmail.com
+              <a href="mailto:crapsmobilehelp@gmail.com" className="text-blue-500 hover:underline">
+                crapsmobilehelp@gmail.com
               </a>
             </div>
             <Link className="text-blue-500" href="/privacy">
