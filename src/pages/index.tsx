@@ -6,18 +6,17 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Craps Trainer</title>
+        <title>Craps Mobile</title>
         <meta name="description" content="Craps simulator for Android and iOS" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container mx-auto">
         <div className="w-full p-4 h-full">
-          <h1 className="text-5xl md:text-6xl font-bold text-center w-full mb-4">Craps Trainer</h1>
+          <h1 className="text-5xl md:text-6xl font-bold text-center w-full mb-4">Craps Mobile</h1>
           <div className="flex flex-col items-center justify-center md:flex-row md:justify-between">
             <div className="w-full md:w-1/2 md:mr-4 flex justify-center md:justify-end">
               <Image
-                className="border-8 border-black rounded-xl"
                 src="/gameplay.png" // Path to the image in the public folder
                 alt="Gameplay Image"
                 width={300} // Set the desired width
@@ -45,7 +44,7 @@ export default function Home() {
           </div>
 
           <footer className="text-center text-gray-500 p-4">
-            Len Lester {new Date().getFullYear()}. All Rights Reserved.
+            Laslow Media Labs LLC {new Date().getFullYear()}. All Rights Reserved.
           </footer>
         </div>
       </div>
